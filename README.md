@@ -1,14 +1,23 @@
-LIXEIRA INTELIGENTE 
+__LIXEIRA INTELIGENTE__
 
-DESCRIÇÃO
+**DESCRIÇÃO**
 
 A lixeira Inteligente é uma lixeira cujo problema é  lixos estarem transbordando, e para resolver esse problema estamos criando-a com a seguinte solução: medir o enchimento dela e avisar com cores(verde,amarelo e vermelho).
 
-OBJETIVO 
+**OBJETIVO** 
 
-INTEGRANTES 
+**INTEGRANTES**
 
-FUNÇÕES
+_Emilly Calixto_
+_Sabrina zen_
+_Carlos Alexandre_
+_Lucas joas_
+
+**FUNÇÕES**
+_Emilly: 
+_Sabrina:
+_Carlos:
+_Lucas: 
 
 MATERIAIS UTILIZADOS 
 
