@@ -37,8 +37,23 @@ _Lucas:
 **CÓDIGO ARDUÍNO** 
 
 **ESTRUTURA**
+
 ---_Imagens_
-  |---_Lixeira.png_
-  |---_Diagrama.png_
+ 
+  |---_Lixeira.jpg_
+ 
+  |---_diagrama.png_
+
 ---_Código_
-  |-Core
+  
+  |---_Arduíno.ino_
+  
+  |---_Coresdasleds_
+
+  |---_SensorDistância_
+
+  |---SensorTampa
+
+  
+
+  
