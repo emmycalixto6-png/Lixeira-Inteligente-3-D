@@ -9,16 +9,23 @@ A lixeira Inteligente é uma lixeira cujo problema é  lixos estarem transbordan
 **INTEGRANTES**
 
 _Emilly Calixto_ 
+
 _Sabrina zen_ 
+
 _Carlos Alexandre_ 
+
 _Lucas joas_ 
 
 
 **FUNÇÕES**
 _Emilly: 
+
 _Sabrina:
+
 _Carlos:
+
 _Lucas: 
+
 
 MATERIAIS UTILIZADOS 
 
