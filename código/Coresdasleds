@@ -1,1 +1,58 @@
+// Pinos dos LEDs
+int ledVerde = 8;
+int ledAmarelo = 9;
+int ledVermelho = 10;
 
+// Valor recebido do sensor/potenciômetro
+int nivelLixeira = 0;
+
+
+void setup() {
+
+  pinMode(ledVerde, OUTPUT);
+  pinMode(ledAmarelo, OUTPUT);
+  pinMode(ledVermelho, OUTPUT);
+
+  Serial.begin(9600);
+}
+
+
+void loop() {
+
+  // Simulando o sensor com potenciômetro
+  nivelLixeira = analogRead(A0);
+
+  Serial.println(nivelLixeira);
+
+
+  // Lixeira vazia
+  if(nivelLixeira < 400){
+
+    digitalWrite(ledVerde, HIGH);
+    digitalWrite(ledAmarelo, LOW);
+    digitalWrite(ledVermelho, LOW);
+
+  }
+
+
+  // Lixeira enchendo
+  else if(nivelLixeira >= 400 && nivelLixeira < 800){
+
+    digitalWrite(ledVerde, LOW);
+    digitalWrite(ledAmarelo, HIGH);
+    digitalWrite(ledVermelho, LOW);
+
+  }
+
+
+  // Lixeira cheia
+  else{
+
+    digitalWrite(ledVerde, LOW);
+    digitalWrite(ledAmarelo, LOW);
+    digitalWrite(ledVermelho, HIGH);
+
+  }
+
+
+}
