@@ -37,4 +37,8 @@ _Lucas:
 **CÓDIGO ARDUÍNO** 
 
 **ESTRUTURA**
-
+---_Imagens_
+  |---_Lixeira.png_
+  |---_Diagrama.png_
+---_Código_
+  |-Core
