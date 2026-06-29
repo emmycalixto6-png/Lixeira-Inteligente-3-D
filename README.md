@@ -38,22 +38,20 @@ _Lucas:
 
 **ESTRUTURA**
 
----_Imagens_
+•**Imagens**
  
-  |---_Lixeira.jpg_
+  -_Lixeira.jpg_
  
-  |---_diagrama.png_
+  -_diagrama.png_
 
----_Código_
+•**Código**
   
-  |---_Arduíno.ino_
+  -_Arduíno.ino_
   
-  |---_Coresdasleds_
+  -_Coresdasleds_
 
-  |---_SensorDistância_
+  -_SensorDistância_
 
-  |---SensorTampa
+  -SensorTampa
 
-  
-
-  
+•**README.md**
