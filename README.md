@@ -8,6 +8,7 @@ A lixeira Inteligente é uma lixeira cujo problema é  lixos estarem transbordan
 
 **INTEGRANTES**
 
+
 _Emilly Calixto_
 _Sabrina zen_
 _Carlos Alexandre_
