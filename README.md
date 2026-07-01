@@ -2,7 +2,7 @@ __LIXEIRA INTELIGENTE__
 
 **DESCRIÇÃO**
 
-_A lixeira Inteligente é uma lixeira cujo problema é  lixos estarem transbordando, e para resolver esse problema estamos criando-a com a seguinte solução: medir o enchimento dela e avisar com cores(verde,amarelo e vermelho), para isso usaremos os seguintes codigos: Código Arduíno.ino, Servo motor, SensorDistância, CoresdasLeds._
+_A lixeira Inteligente é uma lixeira desenvolvida por alunos do 3° ano D, cujo problema é  lixos estarem transbordando, e para resolver esse problema estamos criando-a com a seguinte solução: medir o enchimento dela e avisar com cores(verde,amarelo e vermelho), para isso usaremos os seguintes codigos: Código Arduíno.ino, Servo motor, SensorDistância, CoresdasLeds._
 
 **OBJETIVO**
 
@@ -21,13 +21,13 @@ _Lucas joas_
 
 **FUNÇÕES**
 
-_Emilly: Codigo Arduino.ino, montagem lixeira fiisca,
+_Emilly: Codigo Arduino.ino, montagem lixeira fiisca,_
 
-_Sabrina: Código Coresdasleds,
+_Sabrina: Código Coresdasleds,_
 
-_Carlos:Codigo do servo motor,
+_Carlos:Codigo do servo motor,_
 
-_Lucas: Codigo do SensorDistância,
+_Lucas: Codigo do SensorDistância,_
 
 
 **MATERIAIS UTILIZADOS**
