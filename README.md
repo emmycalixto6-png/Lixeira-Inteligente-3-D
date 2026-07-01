@@ -2,9 +2,11 @@ __LIXEIRA INTELIGENTE__
 
 **DESCRIÇÃO**
 
-A lixeira Inteligente é uma lixeira cujo problema é  lixos estarem transbordando, e para resolver esse problema estamos criando-a com a seguinte solução: medir o enchimento dela e avisar com cores(verde,amarelo e vermelho).
+_A lixeira Inteligente é uma lixeira cujo problema é  lixos estarem transbordando, e para resolver esse problema estamos criando-a com a seguinte solução: medir o enchimento dela e avisar com cores(verde,amarelo e vermelho), para isso usaremos os seguintes codigos: Código Arduíno.ino, Servo motor, SensorDistância, CoresdasLeds._
 
-**OBJETIVO** 
+**OBJETIVO**
+
+_O objetivo desse projeto é entregar uma lixeira que mede o enchimento, avisa com cores quando ela esta vazia, enchendo e quase cheia, aprender, reaprender ou revisar conteúdos fundamentais pra montar toda a parte lógica e física dela, ou seja expandir nossos conhecimentos na área._
 
 **INTEGRANTES**
 
@@ -19,18 +21,19 @@ _Lucas joas_
 
 **FUNÇÕES**
 
-_Emilly: 
+_Emilly: Codigo Arduino.ino, montagem lixeira fiisca,
 
-_Sabrina:
+_Sabrina: Código Coresdasleds,
 
-_Carlos:
+_Carlos:Codigo do servo motor,
 
-_Lucas: 
+_Lucas: Codigo do SensorDistância,
 
 
 **MATERIAIS UTILIZADOS**
 
 **COMO FUNCIONA**
+_A lixeira Inteligente funciona com o uso do SensorDistância para medir o nivel de lixo na lixeira. ao detectar o lixo esta abaixo o LED verde vai permanecer verde, a medida que vai enchendo o LED amarelo acende, quando a lixeirs está quase cheia ou cheia, o LED vermelho acende, assim indicando que precisamos remover o lixo. Além do mais, o servo motor é responsável por abrir e fechar a tampa automaticamente ao aproximarmos a mão ou algo perto_
 
 **CIRCUITO ELETRONICO**
 
@@ -38,20 +41,20 @@ _Lucas:
 
 **ESTRUTURA**
 
-•**Imagens**
+🗃️•**Imagens**
  
-  -_Lixeira.jpg_
+ 📂 -_Lixeira.jpg_
  
-  -_diagrama.png_
+ 📂 -_diagrama.png_
 
-•**Código**
+ 🗃️ •**Código**
   
-  -_Arduíno.ino_
+ 📂 -_Arduíno.ino_
   
-  -_Coresdasleds_
+ 📂 -_Coresdasleds_
 
-  -_SensorDistância_
+ 📂 -_SensorDistância_
 
-  -SensorTampa
+ 📂 -SensorTampa
 
-•**README.md**
+ 🗃️ •**README.md**
