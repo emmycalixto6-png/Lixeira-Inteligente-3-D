@@ -19,7 +19,7 @@ _Carlos Alexandre_
 _Lucas joas_ 
 
 
-**FUNÇÕES**
+**FUNÇÕES/OQUE CADA UM FEZ**
 
 _Emilly: Codigo Arduino.ino, montagem lixeira fiisca,_
 
@@ -34,27 +34,3 @@ _Lucas: Codigo do SensorDistância,_
 
 **COMO FUNCIONA**
 _A lixeira Inteligente funciona com o uso do SensorDistância para medir o nivel de lixo na lixeira. ao detectar o lixo esta abaixo o LED verde vai permanecer verde, a medida que vai enchendo o LED amarelo acende, quando a lixeirs está quase cheia ou cheia, o LED vermelho acende, assim indicando que precisamos remover o lixo. Além do mais, o servo motor é responsável por abrir e fechar a tampa automaticamente ao aproximarmos a mão ou algo perto_
-
-**CIRCUITO ELETRONICO**
-
-**CÓDIGO ARDUÍNO** 
-
-**ESTRUTURA**
-
-🗃️•**Imagens**
- 
- 📂 -_Lixeira.jpg_
- 
- 📂 -_diagrama.png_
-
- 🗃️ •**Código**
-  
- 📂 -_Arduíno.ino_
-  
- 📂 -_Coresdasleds_
-
- 📂 -_SensorDistância_
-
- 📂 -SensorTampa
-
- 🗃️ •**README.md**
