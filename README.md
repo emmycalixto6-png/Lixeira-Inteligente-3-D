@@ -3,6 +3,7 @@ __LIXEIRA INTELIGENTE__
 **DESCRIÇÃO**
 
 _A lixeira Inteligente é uma lixeira desenvolvida por alunos do 3° ano D, cujo problema é lixos estarem transbordando. Para resolvermos esse problema, arranjamos a seguinte solução: medir o enchimento dela e avisar com cores(verde,amarelo e vermelho), quando ela estiver enchendo(verde),quando estiver na metade(amarelo) e quando estiver quase cheia ou cheia(vermelho). 
+
   Nosso objetivo durante o projeto era desenvolver uma solução, aprender e reaprender conceitos e codigos básicos e talvez não basicos, consideramos esse objetivo concluído, pois ao longo do processo, tivemos respostas positivas ao que estavamos fazendo.
 
 
