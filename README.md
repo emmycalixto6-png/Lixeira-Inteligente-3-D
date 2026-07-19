@@ -21,11 +21,11 @@ _Lucas joas_
 
 **FUNÇÕES/OQUE CADA UM FEZ**
 
-_Emilly: Codigo Arduino.ino, montagem lixeira fiisca,_
+_Emilly: Codigo Arduino.ino, montagem ,_
 
-_Sabrina: Código Coresdasleds,_
+_Sabrina: Codigo do servo motor,_
 
-_Carlos:Codigo do servo motor,_
+_Carlos: Código das Coresdasleds, Montagem do circuito das leds_
 
 _Lucas: Codigo do SensorDistância,_
 
