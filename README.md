@@ -34,9 +34,12 @@ _Lucas: Codigo do SensorDistância,_
 
 **MATERIAIS UTILIZADOS**
 
-Resistores 
+Resistores
+
 Leds ( vermelho verde e amarelo)  
+
 Sensor ultra sônico 
+
 Fios 
 
 
