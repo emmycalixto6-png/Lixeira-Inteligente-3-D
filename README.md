@@ -7,6 +7,7 @@ _A lixeira Inteligente é uma lixeira desenvolvida por alunos do 3° ano D, cujo
   Nosso objetivo durante o projeto era desenvolver uma solução, aprender e reaprender conceitos e codigos básicos e talvez não basicos, consideramos esse objetivo concluído, pois ao longo do processo, tivemos respostas positivas ao que estavamos fazendo.
 
 
+
 **INTEGRANTES**
 
 _Emilly Calixto_ 
@@ -18,6 +19,7 @@ _Carlos Alexandre_
 _Lucas joas_ 
 
 
+
 **FUNÇÕES/OQUE CADA UM FEZ**
 
 _Emilly: Coordenadora, Progamação do Codigo Arduino.ino, ,_
@@ -27,6 +29,7 @@ _Sabrina: ,_
 _Carlos: Código das Coresdasleds, Montagem do circuito das leds_
 
 _Lucas: Codigo do SensorDistância,_
+
 
 
 **MATERIAIS UTILIZADOS**
