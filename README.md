@@ -24,7 +24,7 @@ _Lucas joas_
 
 _Emilly: Coordenadora, Progamação do Codigo Arduino.ino, ,_
 
-_Sabrina: ,_
+_Sabrina: Montagem do circuito do servo motor(tampa), pesquisas,_
 
 _Carlos: Código das Coresdasleds, Montagem do circuito das leds_
 
@@ -38,9 +38,15 @@ Resistores
 
 Leds ( vermelho verde e amarelo)  
 
-Sensor ultra sônico 
+Sensor ultrasônico 
 
 Fios 
+
+Sensores 
+
+Servo motor 
+
+Arduíno Uno
 
 
 **COMO FUNCIONA**
