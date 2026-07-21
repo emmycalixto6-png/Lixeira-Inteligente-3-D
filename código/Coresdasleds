@@ -1,7 +1,7 @@
 // 1. DEFINIÇÃO DOS PINOS
 const int ledVerde = 2;
-const int ledAmarelo = 1;
-const int ledVermelho = 0;
+const int ledAmarelo = 4;
+const int ledVermelho = 5;
 const int pinoSensor = 3; // Pino de sinal do sensor
 
 void setup() {
