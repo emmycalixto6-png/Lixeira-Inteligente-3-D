@@ -12,11 +12,11 @@ _A lixeira Inteligente é uma lixeira desenvolvida por alunos do 3° ano D, cujo
 
 _Emilly Calixto_ 
 
-_Sabrina zen_ 
+_Sabrina Zen_ 
 
 _Carlos Alexandre_ 
 
-_Lucas joas_ 
+_Lucas Joas_ 
 
 
 
@@ -28,7 +28,7 @@ _Sabrina: Montagem do circuito do servo motor(tampa), pesquisas,_
 
 _Carlos: Código das Coresdasleds, Montagem do circuito das leds_
 
-_Lucas: Codigo do SensorDistância,_
+_Lucas: Codigo do SensorDistância, gravador e editor do video do circuito_
 
 
 
