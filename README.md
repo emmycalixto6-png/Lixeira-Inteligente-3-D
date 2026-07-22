@@ -22,13 +22,13 @@ _Lucas Joas_
 
 **FUNÇÕES/OQUE CADA UM FEZ**
 
-_Emilly: Coordenadora, Progamação do Codigo Arduino.ino, ,_
+_Emilly: Coordenadora, Progamação do Codigo Arduino.ino, criação e edição do drive._
 
-_Sabrina: Montagem do circuito do servo motor(tampa), pesquisas,_
+_Sabrina: Montagem do circuito do servo motor(tampa), pesquisas ajudante nas gravações._
 
-_Carlos: Código das Coresdasleds, Montagem do circuito das leds_
+_Carlos: Código das Coresdasleds, Montagem do circuito das leds._
 
-_Lucas: Codigo do SensorDistância, gravador e editor do video do circuito_
+_Lucas: Codigo do SensorDistância, gravador e editor do video do circuito._
 
 
 
@@ -42,8 +42,6 @@ Sensor ultrasônico
 
 Fios 
 
-Sensores 
-
 Servo motor 
 
 Arduíno Uno
@@ -51,3 +49,5 @@ Arduíno Uno
 
 **COMO FUNCIONA**
 _A lixeira Inteligente funciona com o uso do Codigo Arduino, onde nele contém os codigos Coresdasleds,e SensorTampa. Mas vamos falar agora como cada código funciona, primeiro: Condigo Arduino.ino nele contém o código completo, ou seja é o código principal com os outros codigos que vai fazer tudo funcionar. Segundo: Coresdasleds, serve para medir o nivel de lixo na lixeira e avisar com as cores. Ao detectar o lixo, se estiver enchendo a LED verde vai permanecer verde, a medida que for enchendo,pu seja quando estiver na metade o LED amarelo acende, quando a lixeira estiver quase cheia ou cheia, o LED vermelho acende, assim indicando que precisamos remover o lixo. Terceiro e último: SensorTampa, ele é responsável por abrir e fechar a tampa, quando alguem ou algo se aproximar do sensor, a tampa abre e momentos depois, ela fecha._
+
+
